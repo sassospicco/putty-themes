@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\!!!SESSION_NAME!!!]
+[HKEY_CURRENT_USER\SOFTWARE\SimonTatham\PuTTY\Sessions\!!!SESSION_NAME!!!]
 
 ; Default Foreground
 "Colour0"="217,216,216"
@@ -27,9 +27,9 @@ Windows Registry Editor Version 5.00
 ; ANSI Green Bold
 "Colour11"="167,226,46"
 ; ANSI Yellow
-"Colour12"="102,217,238"
+"Colour12"="255,210,4"
 ; ANSI Yellow Bold
-"Colour13"="102,217,238"
+"Colour13"="255,210,4"
 ; ANSI Blue
 "Colour14"="0,157,220"
 ; ANSI Blue Bold
@@ -39,9 +39,9 @@ Windows Registry Editor Version 5.00
 ; ANSI Magenta Bold
 "Colour17"="255,85,255"
 ; ANSI Cyan 
-"Colour18"="255,210,4"
+"Colour18"="102,217,238"
 ; ANSI Cyan Bold
-"Colour19"="255,210,4"
+"Colour19"="102,217,238"
 ; ANSI White
 "Colour20"="217,216,216"
 ; ANSI White Bold
